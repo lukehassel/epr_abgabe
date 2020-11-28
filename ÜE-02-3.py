@@ -1,3 +1,6 @@
+__author__= '7340644: Hassel'
+
+
 import select
 import sys
 import time
